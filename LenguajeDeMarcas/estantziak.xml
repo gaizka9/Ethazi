@@ -1,0 +1,93 @@
+<!-- Add XML Data -->
+<estantziak>
+    <hotela>
+        <izena>Hotel Gran bilbao</izena>
+        <izarrak>4/5</izarrak>
+        <prezioa>90€</prezioa>
+        <tokia>Bilbao</tokia>
+        <iritzia>Oso ona</iritzia>
+        <deskontua>22%</deskontua>
+        <instalazioak>
+            <piscina>Ez</piscina>
+            <spa>Ez</spa>
+            <gimnasio>Bai</gimnasio>
+            <jantokia>Bai</jantokia>
+            <balkoia>Bai</balkoia>
+            <wifi>Bai</wifi> 
+        </instalazioak>  
+        <gelak>
+            <gela mota="familiar">
+                <ohekp>3</ohekp>
+                <geladimentsioak>32m karratu</geladimentsioak>
+            </gela>
+            <gela mota="suite">
+                <ohekp>1</ohekp>
+                <geladimentsioak>75m karratu</geladimentsioak>
+            </gela>
+            <gela mota="indibiduala">
+                <ohekp>1</ohekp>
+                <geladimentsioak>19m karratu</geladimentsioak>
+            </gela>
+        </gelak>
+    </hotela>
+        <hotela>
+        <izena>Hostal San Isidro</izena>
+        <izarrak>4/5</izarrak>
+        <prezioa>100€</prezioa>
+        <tokia>Cambrils</tokia>
+        <iritzia>Oso ona</iritzia>
+        <deskontua>22%</deskontua>
+        <instalazioak>
+            <piscina>Ez</piscina>
+            <spa>Ez</spa>
+            <gimnasio>Bai</gimnasio>
+            <jantokia>Bai</jantokia>
+            <balkoia>Bai</balkoia>
+            <wifi>Bai</wifi> 
+        </instalazioak>  
+        <gelak>
+            <gela mota="familiar">
+                <ohekp>3</ohekp>
+                <geladimentsioak>32m karratu</geladimentsioak>
+            </gela>
+            <gela mota="suite">
+                <ohekp>1</ohekp>
+                <geladimentsioak>75m karratu</geladimentsioak>
+            </gela>
+            <gela mota="indibiduala">
+                <ohekp>1</ohekp>
+                <geladimentsioak>19m karratu</geladimentsioak>
+            </gela>
+        </gelak>
+    </hotela>
+        <hotela>
+        <izena>Hotel Castilla</izena>
+        <izarrak></izarrak>
+        <prezioa></prezioa>
+        <tokia></tokia>
+        <iritzia></iritzia>
+        <deskontua></deskontua>
+        <instalazioak>
+            <piscina></piscina>
+            <spa></spa>
+            <gimnasio></gimnasio>
+            <jantokia></jantokia>
+            <balkoia></balkoia>
+            <wifi></wifi> 
+        </instalazioak>  
+        <gelak>
+            <gela mota="familiar">
+                <ohekp></ohekp>
+                <geladimentsioak></geladimentsioak>
+            </gela>
+            <gela mota="suite">
+                <ohekp></ohekp>
+                <geladimentsioak></geladimentsioak>
+            </gela>
+            <gela mota="indibiduala">
+                <ohekp></ohekp>
+                <geladimentsioak></geladimentsioak>
+            </gela>
+        </gelak>
+    </hotela>
+</estantziak>

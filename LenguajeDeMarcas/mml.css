@@ -1,0 +1,30 @@
+
+.checked {
+	color: orange;
+}
+
+.txarto {
+	color: red;
+}
+
+.bg1 {
+    background-image:  url('https://thumbs.gfycat.com/AcclaimedUnripeInganue-size_restricted.gif'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.card{
+    margin-bottom: 50px;
+}
+
+
+
+/*kontaktua*/
+
+.bg2 {
+	color: white;
+    background-image:  url('https://media.giphy.com/media/s0go9ywxjJg4w/giphy.gif'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
