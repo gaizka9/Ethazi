@@ -2,10 +2,10 @@ multilineString =
 '<footer class="bg-dark text-center text-white">' +
     '<div class="container p-4">' +
         '<div class="row">' +
-            '<div class="offset-3 col-3">' +
+            '<div class="offset-lg-3 col-lg-3 col-md-6 offset-md-3 col-sm-12">' +
                 '<img src="Logo.png" alt="MDN">' +
             '</div>' +
-            '<div class="col-3 align-self-center">' +
+            '<div class="col-lg-3 col-md-6 col-sm-12 align-self-center">' +
                 '<section class="mb-4">' +
                     '<a class="btn btn-outline-light btn-floating m-1" href="https://es-es.facebook.com/eDreams.ES/" role="button">' +
                         '<i class="fa fa-facebook"></i>' +
